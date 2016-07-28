@@ -1,0 +1,8 @@
+#include<stdio.h>
+
+int main()
+{
+	printf("HelloWorld ïw»ðÁ÷ÐÇ"); 
+	return 0;
+}
+
